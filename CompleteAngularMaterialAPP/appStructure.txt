@@ -1,0 +1,8 @@
++src
++---+app
+|---+---+employees
+|   |   |---+employees.component.ts|.html|.css
+|   |   +---+employee
+|   |   |   |---+employee.component.ts|.html|.css
+        +---+shared
+|   |   |   |---+employee.service.ts(form group)
